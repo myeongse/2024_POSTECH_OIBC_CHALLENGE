@@ -118,7 +118,7 @@
 
 | 이름       | GitHub 아이디       | 프로필 |
 |------------|---------------------|---------|
-| 윤명세     | [myeongse](https://github.com/myeongse) | ![myeongse](https://github.com/myoungse.png?size=40) |
+| 윤명세     | [myeongse](https://github.com/myeongse) | ![myeongse](https://github.com/myeongse.png?size=40) |
 | 황언종     | [eonjong0218](https://github.com/eonjong0218) | ![eonjong0218](https://github.com/eonjong0218.png?size=40) |
 
 ---
